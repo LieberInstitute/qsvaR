@@ -1,6 +1,6 @@
 Package: qsvaR
 Title: Generate Quality Surrogate Variable Analysis for Degradation Correction
-Version: 1.11.1
+Version: 1.12.0
 Date: 2024-12-10
 Authors@R: 
     c(
